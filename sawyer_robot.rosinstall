@@ -1,7 +1,7 @@
 - git:
     local-name: intera_sdk
     uri: https://github.com/tunglm2203/intera_sdk.git
-    version: master
+    version: release-5.2.0
 - git:
     local-name: intera_common
     uri: https://github.com/tunglm2203/intera_common.git
