@@ -180,7 +180,7 @@
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
     </joint>
     <actuator name="right_motor0">
-      <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
+      <!-- <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface> -->
       <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
@@ -190,7 +190,7 @@
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
     </joint>
     <actuator name="right_motor1">
-      <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
+      <!-- <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface> -->
       <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
@@ -200,7 +200,7 @@
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
     </joint>
     <actuator name="right_motor2">
-      <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
+      <!-- <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface> -->
       <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
@@ -210,7 +210,7 @@
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
     </joint>
     <actuator name="right_motor3">
-      <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
+      <!-- <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface> -->
       <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
@@ -220,7 +220,7 @@
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
     </joint>
     <actuator name="right_motor4">
-      <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
+      <!-- <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface> -->
       <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
@@ -230,7 +230,7 @@
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
     </joint>
     <actuator name="right_motor5">
-      <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
+      <!-- <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface> -->
       <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
@@ -240,7 +240,7 @@
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
     </joint>
     <actuator name="right_motor6">
-      <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
+      <!-- <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface> -->
       <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
@@ -251,7 +251,7 @@
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
     </joint>
     <actuator name="head_motor0">
-      <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
+      <!-- <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface> -->
       <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
